@@ -1,5 +1,5 @@
-<b>The goal of this task is to get familiar with the built-in string methods in JavaScript.
-The task can be solved any way you see fit, but you are advised to use built-in JavaScript methods to solve them.</b>
+<h1>The goal of this task is to get familiar with the built-in string methods in JavaScript.
+The task can be solved any way you see fit, but you are advised to use built-in JavaScript methods to solve them.</h1>
 
 - Create a function called replaceString that takes in three parameters word, search and replaceWith. 
 The function would replace all instances of the search parameter with the replaceWith parameter. <br />
